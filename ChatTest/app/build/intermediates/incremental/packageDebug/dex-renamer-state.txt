@@ -1,0 +1,7 @@
+#Thu Oct 13 19:06:49 MSK 2016
+base.0=F\:\\Users\\aldui\\Downloads\\ChatTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2cc4a981bbda89114cb73f6ca1da0729913a9794
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\Users\\aldui\\Downloads\\ChatTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_dd89cf60d2329d71515270d0edb81f9ee68dd1f0\\classes.dex
+base.1=F\:\\Users\\aldui\\Downloads\\ChatTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_dd89cf60d2329d71515270d0edb81f9ee68dd1f0
+file.0=F\:\\Users\\aldui\\Downloads\\ChatTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2cc4a981bbda89114cb73f6ca1da0729913a9794\\classes.dex
