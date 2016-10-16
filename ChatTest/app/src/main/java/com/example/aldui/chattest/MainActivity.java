@@ -23,6 +23,10 @@ public class MainActivity extends AppCompatActivity {
     ListView msgList;
     TextureView strmView;
     String nickname;
+    String sqlconn;
+    String ipconn;
+    String login;
+    String pass;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
